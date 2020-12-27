@@ -41,6 +41,7 @@ First Page:
 ## Links <a name="links"></a>
 
 * github: [https://github.com/jbenj-upenn/studioGhibliAPI]
+* page:  [https://jbenj-upenn.github.io/studioGhibliAPI/]
 
 ------------------
 ## To-do list (future additions): <a name="todo"></a>
