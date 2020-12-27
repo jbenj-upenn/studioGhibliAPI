@@ -33,7 +33,7 @@ request.onload = function () {
             // Create p and set text to description
             const p = document.createElement('p')
             // Limit desc to 300 chars
-            movie.description = movie.description.substring(0, 300)
+            movie.description = movie.description.substring(0, 250)
             p.textContent = `${movie.description}...`
             // append cards to container 
             container.appendChild(card)

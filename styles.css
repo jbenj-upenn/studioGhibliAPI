@@ -68,11 +68,11 @@ p {
 }
 
 .card:nth-child(2n) h1 {
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-image: linear-gradient(120deg, #08c74e 0%, #08547a 100%);
 }
-.card:nth-child(4n) h1 {
-    background-image: linear-gradient(120deg, #ff9a9e 0%, #fecfef 100%);
+.card:nth-child(3n) h1 {
+    background-image: linear-gradient(120deg, #ff9a9e 0%, #c9078b 100%);
 }
 .card:nth-child(5n) h1 {
-    background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
+    background-image: linear-gradient(120deg, #eb8448 0%, #045177 100%);
 }
