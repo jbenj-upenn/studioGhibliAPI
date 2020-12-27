@@ -40,7 +40,7 @@ First Page:
 ------------------
 ## Links <a name="links"></a>
 
-* github: [
+* github: [https://github.com/jbenj-upenn/studioGhibliAPI]
 
 ------------------
 ## To-do list (future additions): <a name="todo"></a>
